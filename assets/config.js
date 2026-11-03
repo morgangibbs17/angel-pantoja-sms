@@ -14,7 +14,7 @@
  *   so you can prove which wording a contact saw.
  */
 window.APP_CONFIG = {
-  webhookUrl: "",
+  webhookUrl: "https://services.leadconnectorhq.com/hooks/YbvMcuhDSxqulQFxzn2v/webhook-trigger/b45b7cc2-a2b3-4320-b325-f473ef3c8d76",
   consentVersion: "2026-11-03.v1",
   privacyPolicyUrl: "privacy-policy.html",
   termsUrl: "terms.html"
